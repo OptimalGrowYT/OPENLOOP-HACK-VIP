@@ -1,7 +1,7 @@
 
 # 🚀 OPENLOOP HACK VIP 
 
-![Preview](https://github.com/OptimalGrowYT/ZOO-STORY-BOT/blob/main/Preview.png)
+![Preview](https://github.com/OptimalGrowYT/OPENLOOP-HACK-VIP/blob/main/Preview.png)
 
 ## ✨ Features
 - 🔄 **Automated Node Interaction**
