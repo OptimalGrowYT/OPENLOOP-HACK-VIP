@@ -1,1 +1,1 @@
-
+export const banner = `JOIN @OPTIMALGROWYT TELEGRAM CHANNEL FOR MORE SCRIPT `;
